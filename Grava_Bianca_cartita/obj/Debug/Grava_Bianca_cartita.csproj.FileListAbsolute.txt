@@ -1,0 +1,47 @@
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe.config
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.pdb
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csprojAssemblyReference.cache
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form1.resources
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Properties.Resources.resources
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csproj.GenerateResource.cache
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csproj.CoreCompileInputs.cache
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.exe
+D:\C\12C\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.pdb
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe.config
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.pdb
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csprojResolveAssemblyReference.cache
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form1.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Properties.Resources.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csproj.GenerateResource.Cache
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.exe
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.pdb
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form2.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form3.resources
+E:\Bianca\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form4.resources
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe.config
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.pdb
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form1.resources
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form2.resources
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form3.resources
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form4.resources
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Properties.Resources.resources
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csproj.GenerateResource.Cache
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.exe
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.pdb
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csprojAssemblyReference.cache
+F:\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csproj.CoreCompileInputs.cache
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe.config
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.exe
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\bin\Debug\Grava_Bianca_cartita.pdb
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csprojResolveAssemblyReference.cache
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form1.resources
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form2.resources
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form3.resources
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Form4.resources
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.Properties.Resources.resources
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.csproj.GenerateResource.Cache
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.exe
+D:\Bianca\ORGANIZAT DEJA\pana la 12.09.2023\Materiale liceu\Materii scoala\C#\Grava_Bianca_cartita\Grava_Bianca_cartita\obj\Debug\Grava_Bianca_cartita.pdb
